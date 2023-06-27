@@ -3,12 +3,12 @@
 I am a biomedical scientist with a master's degree, Ph.D., and post-doctoral training in Applied Microbiology and Parasitology. My research lines are on virology, oncology and oncovirology, particularly HPV and cervical cancer. Additionally, I work as a university professor and serve as a technician in a microbiology laboratory. I am now venturing into the field of Data Science, either as a career transition or to implement it in the realm of healthcare and science. I am passionate about the power of science and information to transform lives and the world!
 
 ## My Skills extends to
-- Programming in <b>Python</b>;
-- <b>Exploratory Data Analysis</b> (EDA);
-- <b>Database Management<b> (SQL);
-- <b>Data Science</b> and <b>Analytics</b>
-- <b>Statistic Models</b>
-- <b>Machine Learning<\b>
+- :snake: Programming in <b>Python</b>;
+- :books: <b>Exploratory Data Analysis</b> (EDA);
+- :file_folder: <b>Database Management<b> (SQL);
+- :chart_with_upwards_trend: <b>Data Science</b> and <b>Analytics</b>
+- :bar_chart: <b>Statistic Models</b>
+- :robot: <b>Machine Learning<\b>
 
  <div>
    <a href="https://github.com/WillkerMenezes">
