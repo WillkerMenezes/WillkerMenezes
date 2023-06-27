@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://github.com/WillkerMenezes/WillkerMenezes/assets/97563712/dcded498-bf47-4e28-ad1d-c07f0cf160da" width="360px" />
-</div>
 ## Welcome!  😁
 
 I am a biomedical scientist with a master's degree, Ph.D., and post-doctoral training in Applied Microbiology and Parasitology. My research lines are on virology, oncology and oncovirology, particularly HPV and cervical cancer. Additionally, I work as a university professor and serve as a technician in a microbiology laboratory. I am now venturing into the field of Data Science, either as a career transition or to implement it in the realm of healthcare and science. I am passionate about the power of science and information to transform lives and the world!
@@ -44,4 +41,7 @@ I am a biomedical scientist with a master's degree, Ph.D., and post-doctoral tra
  
   ![Snake animation](https://github.com/WillkerMenezes/WillkerMenezes/blob/output/github-contribution-grid-snake.svg)
 
+</div>
+<div align="center">
+<img src="https://github.com/WillkerMenezes/WillkerMenezes/assets/97563712/dcded498-bf47-4e28-ad1d-c07f0cf160da" width="360px" />
 </div>
