@@ -42,3 +42,7 @@ I am a biomedical scientist with a master's degree, Ph.D., and post-doctoral tra
   ![Snake animation](https://github.com/WillkerMenezes/WillkerMenezes/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+<div align="center">
+<img src="https://desblogada.files.wordpress.co..." width="0px" />
+</div>
