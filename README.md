@@ -43,6 +43,7 @@ I am a biomedical scientist with a master's degree, Ph.D., and post-doctoral tra
 
 </div>
 
+![octocat-1687833966419](https://github.com/WillkerMenezes/WillkerMenezes/assets/97563712/dcded498-bf47-4e28-ad1d-c07f0cf160da)
 <div align="center">
-<img src="https://desblogada.files.wordpress.co..." width="0px" />
+<img src="https://github.com/WillkerMenezes/WillkerMenezes/assets/97563712/dcded498-bf47-4e28-ad1d-c07f0cf160da" width="360px" />
 </div>
