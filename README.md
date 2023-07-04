@@ -1,6 +1,6 @@
 ## Welcome!  😁
 
-I am a biomedical scientist with a master's degree, Ph.D., and post-doctoral training in Applied Microbiology and Parasitology. My research lines are on virology, oncology and oncovirology, particularly HPV and cervical cancer. Additionally, I work as a university professor and serve as a technician in a microbiology laboratory. I am now venturing into the field of Data Science, either as a career transition or to implement it in the realm of healthcare and science. I am passionate about the power of science and information to transform lives and the world!
+I am a Biomedical Scientist with master's degree, Ph.D., and post-doctoral training in Applied Microbiology and Parasitology. My research lines are on Virology, Oncology and Oncovirology, particularly HPV and cervical cancer. Additionally, I work as a university professor and serve as a technician in a microbiology laboratory. I am now venturing into the field of Data Science, either as a career transition or to implement it in the realm of healthcare and science. I am passionate about the power of science and information to transform lives and the world!
 
 ## My Skills extends to
 - :snake: Programming in <b>Python</b>;
