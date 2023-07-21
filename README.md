@@ -8,7 +8,7 @@ I am a Biomedical Scientist with master's degree, Ph.D., and post-doctoral train
 - :file_folder: <b>Database Management<b> (SQL);
 - :chart_with_upwards_trend: <b>Data Science</b> and <b>Analytics</b>
 - :bar_chart: <b>Statistic Models</b>
-- :robot: <b>Machine Learning<\b>
+- :robot: <b>Machine Learning <\b>
 
  <div>
    <a href="https://github.com/WillkerMenezes">
