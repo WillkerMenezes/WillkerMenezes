@@ -39,5 +39,7 @@ I am a Biomedical Scientist with master's degree, Ph.D., and post-doctoral train
   <a href = "mailto:willker.menezes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/willkermenezes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </br>
+
   ![Snake animation](https://github.com/WillkerMenezes/WillkerMenezes/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
